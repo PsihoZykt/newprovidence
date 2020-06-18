@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/newprovidence/static/css/main.dab942e3.chunk.css",
+    "main.js": "/newprovidence/static/js/main.a4461331.chunk.js",
+    "main.js.map": "/newprovidence/static/js/main.a4461331.chunk.js.map",
+    "runtime-main.js": "/newprovidence/static/js/runtime-main.c915d967.js",
+    "runtime-main.js.map": "/newprovidence/static/js/runtime-main.c915d967.js.map",
+    "static/js/2.41fdc860.chunk.js": "/newprovidence/static/js/2.41fdc860.chunk.js",
+    "static/js/2.41fdc860.chunk.js.map": "/newprovidence/static/js/2.41fdc860.chunk.js.map",
+    "index.html": "/newprovidence/index.html",
+    "precache-manifest.e71b8e5b6f786bb8ca226dd2afeaaca7.js": "/newprovidence/precache-manifest.e71b8e5b6f786bb8ca226dd2afeaaca7.js",
+    "service-worker.js": "/newprovidence/service-worker.js",
+    "static/css/main.dab942e3.chunk.css.map": "/newprovidence/static/css/main.dab942e3.chunk.css.map",
+    "static/js/2.41fdc860.chunk.js.LICENSE.txt": "/newprovidence/static/js/2.41fdc860.chunk.js.LICENSE.txt",
+    "static/media/IphoneScreen.png": "/newprovidence/static/media/IphoneScreen.2398484e.png",
+    "static/media/Lato-Bold.ttf": "/newprovidence/static/media/Lato-Bold.85d339d9.ttf",
+    "static/media/Lato-Regular.ttf": "/newprovidence/static/media/Lato-Regular.2d36b1a9.ttf",
+    "static/media/Photo.png": "/newprovidence/static/media/Photo.e8e0c5b5.png",
+    "static/media/Photo1.png": "/newprovidence/static/media/Photo1.1c2fde75.png",
+    "static/media/Photo2.png": "/newprovidence/static/media/Photo2.34d4ff09.png",
+    "static/media/Screen_1.png": "/newprovidence/static/media/Screen_1.3b5fb643.png",
+    "static/media/Screen_2.png": "/newprovidence/static/media/Screen_2.c402831e.png",
+    "static/media/Screen_3.png": "/newprovidence/static/media/Screen_3.3a7af54d.png",
+    "static/media/Screen_4.png": "/newprovidence/static/media/Screen_4.3a6286b2.png",
+    "static/media/VarelaRound-Regular.ttf": "/newprovidence/static/media/VarelaRound-Regular.159cb67f.ttf",
+    "static/media/World_Map.png": "/newprovidence/static/media/World_Map.edcfc864.png",
+    "static/media/header.module.css": "/newprovidence/static/media/background.e610c259.png",
+    "static/media/iPhone_6.png": "/newprovidence/static/media/iPhone_6.6bb49e64.png",
+    "static/media/iphone6.png": "/newprovidence/static/media/iphone6.06c1a592.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c915d967.js",
+    "static/js/2.41fdc860.chunk.js",
+    "static/css/main.dab942e3.chunk.css",
+    "static/js/main.a4461331.chunk.js"
+  ]
+}
