@@ -1,0 +1,71 @@
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 900px;
+}
+
+.iphone {
+    position: absolute;
+    left: -150px;
+}
+
+.featuresText {
+    margin-left: 900px;
+    margin-top: 200px;
+
+}
+
+.wrapper h1 {
+    width: 237px;
+    margin-bottom: 50px;
+    color: #26272d;
+    font-family: "Varela-Round";
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52px;
+}
+
+.wrapper p {
+    width: 469px;
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.hackBtn {
+    width: 202px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #267df4;
+    color: white;
+    text-align: center;
+    line-height: 42px;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.learnMoreBtn {
+    width: 142px;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 21px;
+    text-align: center;
+    border: 1px solid rgba(26, 27, 45, 0.1);
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.arrowRight {
+    float: right;
+    margin-right: 15px;
+}
+
+.buttonsWrapper {
+    display: flex;
+
+}

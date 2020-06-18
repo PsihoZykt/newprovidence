@@ -1,0 +1,17 @@
+.watchVideo {
+    width: 205px;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid rgba(26, 27, 45, 0.1);
+    margin: 0 auto;
+    color: #26272d;
+    font-family: Lato-Bold;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 50px;
+}
+
+.playText {
+    padding-left: 4px;
+}

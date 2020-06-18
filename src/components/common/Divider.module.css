@@ -1,0 +1,8 @@
+.wrapper {
+    width: 1170px;
+    height: 1px;
+    border-radius: 1px;
+    background-color: #26272d;
+    opacity: 0.05;
+    margin: 0 auto;
+}

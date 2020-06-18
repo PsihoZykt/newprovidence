@@ -1,0 +1,208 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    height: 900px;
+    background-color: #f4f4f5;
+    padding-right: 219px;
+}
+
+.choosePlan {
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.choosePlan .header {
+    color: #26272d;
+    font-family: "Varela-Round";
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52px;
+}
+
+.choosePlan .youAre {
+    color: #26272d;
+    font-family: Lato-Bold;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    padding-top: 65px;
+    text-transform: uppercase;
+    /* Text style for "Y, ou are" */
+    letter-spacing: 1.2px;
+}
+
+.choosePlanBtn {
+    width: 258px;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid rgba(26, 29, 44, 0.15);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.choosePlanBtn .individual {
+    width: 124px;
+    height: 42px;
+    box-shadow: 10px 28px 50px rgba(92, 95, 101, 0.28), 2px 5px 20px rgba(61, 61, 62, 0.15);
+    border-radius: 21px;
+    background-color: #ffffff;
+    color: #26292c;
+    font-family: Lato-Bold;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 42px;
+    margin-left: 4px;
+    margin-right: 32px;
+}
+
+.choosePlanBtn .company {
+    opacity: 0.4;
+    color: #26292c;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.choosePlan .text {
+    margin-top: 75px;
+    width: 244px;
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.choosePlan .teamText {
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 44px;
+}
+
+.starter {
+    width: 340px;
+    height: 550px;
+    box-shadow: 10px 28px 50px rgba(92, 95, 101, 0.2);
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 159px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.plansWrapper .header {
+    color: #26272d;
+    font-family: Lato-Regular;
+    padding-top: 62px;
+    padding-right: 122px;
+    padding-left: 122px;
+    padding-bottom: 29px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 38px;
+}
+
+ .price {
+    width: 63px;
+    height: 28px;
+    border-radius: 14px;
+    border: 1px solid rgba(26, 29, 44, 0.2);
+    line-height: 28px;
+    text-align: center;
+    color: #26272d;
+    font-family: Lato-Bold;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "F, ree" */
+    letter-spacing: 1.1px;
+    margin-bottom: 66px;
+}
+.text {
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 20px;
+    width: 179px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 47px;
+}
+.starter .startBtn {
+    width: 212px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #267df4;
+    color: #ffffff;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+    margin-left: auto;
+    margin-right:  auto;
+    margin-top: 89px;
+}
+.features {
+    text-align: center;
+}
+.feature {
+    color: #26292c;
+    font-family: Lato-Bold;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.check {
+    color: #6fc754;
+    padding-right: 10px;
+}
+
+
+.choosePlan .teamText a {
+    color: #267df4;
+    text-decoration: underline;
+}
+
+
+.pro {
+    width: 340px;
+    height: 510px;
+    border-radius: 10px;
+    background-color: #ebebed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 179px;
+}
+
+.pro .startBtn {
+    width: 202px;
+    height: 42px;
+    border-radius: 21px;
+    border: 1px solid #267df4;
+    color: #267df4;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+    margin-top: 65px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pro .header {
+    padding-top: 43px;
+}
+.plansWrapper {
+    display: flex;
+    flex-direction: row;
+}
