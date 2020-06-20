@@ -1,0 +1,17 @@
+.header {
+    color: #26272d;
+    font-family: Lato-Regular;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 38px;
+    margin-bottom: 50px;
+}
+.text {
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 554px;
+    margin-bottom: 30px;
+}

@@ -12,32 +12,5 @@
     font-weight: 400;
     line-height: 52px;
 }
-.wrapper p {
-    color: #8c8f94;
-    width: 470px;
-    font-family: Lato-Regular;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 28px;
-}
-.partners {
-    color: #26272d;
-    font-family: Lato-Regular;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 22px;
-    text-transform: uppercase;
-    letter-spacing: 1.2px;
-}
-.partnersImageWrapper {
-    margin-top: 31px;
-}
-.evernote {
-    margin-right: 31px;
-}
-.map {
-    position: absolute;
-    top: 0;
-    right: -153px;
-    top: 216px;
-}
+
+

@@ -1,0 +1,49 @@
+
+.pro {
+    width: 340px;
+    height: 510px;
+    border-radius: 10px;
+    background-color: #ebebed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 179px;
+}
+
+.startBtn {
+    width: 202px;
+    height: 42px;
+    border-radius: 21px;
+    border: 1px solid #267df4;
+    color: #267df4;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+    /*margin-bottom: 71px;*/
+    margin-top: 51px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.features {
+    text-align: center;
+}
+.feature {
+    color: #26292c;
+    font-family: Lato-Bold;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.header {
+    color: #26272d;
+    font-family: Lato-Regular;
+    padding-bottom: 29px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 38px;
+    padding-top: 43px;
+}

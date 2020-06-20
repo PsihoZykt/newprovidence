@@ -32,22 +32,6 @@
     outline: none; /* Убираем свечение в Chrome и Safari */
 }
 
-.inputWrapper .inputSubmit {
-    color: #ffffff;
-    font-family: Lato-Regular;
-    font-size: 16px;
-    font-weight: 400;
-
-    width: 164px;
-    height: 42px;
-    border-radius: 21px;
-    background-color: #6fc754;
-    border: none;
-    margin-top: 4px;
-    margin-right: 4px;
-    float: right;
-
-}
 
 .inputWrapper .inputSubmit:focus {
     outline: none;

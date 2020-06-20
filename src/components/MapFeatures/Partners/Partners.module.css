@@ -1,0 +1,15 @@
+.partners {
+    color: #26272d;
+    font-family: Lato-Regular;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+.partnersImageWrapper {
+    margin-top: 31px;
+}
+.evernote {
+    margin-right: 31px;
+}

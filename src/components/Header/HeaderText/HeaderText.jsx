@@ -3,11 +3,12 @@ import s from './HeaderText.module.css'
 
 const HeaderText = () => {
     return (
-        <div className={s.headerText}>
-            <h1> What happens tommorow?</h1>
-            <h6> The sight of the tumblers restored Bob Sawyer to a degree of equanimity which he had not possessed
+        <div className={s.wrapper}>
+            <div className={s.header}> What happens tommorow?</div>
+            <div className={s.text}> The sight of the tumblers restored Bob Sawyer to a degree of equanimity which he had not possessed
                 since his interview with his landlady. His face brightened up, and he began to feel quite
-                convivial.</h6>
+                convivial.
+            </div>
         </div>
     );
 };

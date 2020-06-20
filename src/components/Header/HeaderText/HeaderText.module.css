@@ -1,10 +1,20 @@
-.headerText {
+.wrapper {
     width: 800px;
     margin: 75px auto;
     text-align: center;
 }
 
-h6 {
+.wrapper .header {
+    color: #26272d;
+    font-family: "Varela-Round";
+    font-size: 62px;
+    font-weight: 400;
+    line-height: 72px;
+    margin-bottom: 40px;
+
+}
+
+.wrapper .text {
     color: #8c8f94;
     font-family: Lato-Regular;
     font-size: 20px;
@@ -12,11 +22,3 @@ h6 {
     line-height: 28px;
 }
 
-h1 {
-    color: #26272d;
-    font-family: "Varela-Round";
-    font-size: 62px;
-    font-weight: 400;
-    line-height: 72px;
-
-}

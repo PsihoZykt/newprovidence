@@ -2,88 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2315682e-e3b8-41e5-887c-c2437f703bdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Dropbox_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Evernote_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/IphoneScreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/NewProvidence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Screen_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Screen_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Screen_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Screen_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/World_Map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/alarm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/VarelaRound-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/iPhone_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/iphone6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Customers/Customers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Customers/Customers.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Features.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Features/Features.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/ContactsMenu/ContactsMenu.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/ContactsMenu/ContactsMenu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/HeaderMenu.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/HeaderMenu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WatchVideo/WatchVideo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/WatchVideo/WatchVideo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreen.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreens.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plan.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plan.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/AppleStoreBtn/AppleStoreBtn.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/AppleStoreBtn/AppleStoreBtn.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Divider.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Divider.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/CustomerPhotos/CustomerPhotos.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/CustomerPhotos/CustomerPhotos.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/CustomerText/CustomerText.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/CustomerText/CustomerText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/Stars/Stars.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Customers/Stars/Stars.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Copyright/Copyright.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Copyright/Copyright.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/AboutUs/AboutUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/Links.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/Links.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/Social/Social.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/Social/Social.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Links/Support/Support.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/iphoneScreen/IphoneScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/iphoneScreen/IphoneScreen.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/Features/Features.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/Features/FeaturesHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/Features/FeaturesText.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/HackBtn/HackBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/HackBtn/HackBtn.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/Iphone/Iphone.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/Iphone/Iphone.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/LearnMoreBtn/LearnMoreBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/LearnMoreBtn/LearnMoreBtn.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/InterfaceExamples/InterfaceExamples.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/InterfaceExamples/InterfaceExamples.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreensHeader/IphoneScreensHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreensHeader/IphoneScreensHeader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapImage/MapImage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapImage/MapImage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapText/MapHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapText/MapText.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapText/MapText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/Partners/Partners.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapFeatures/Partners/Partners.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/ChoosePlan/ChoosePlan.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/ChoosePlan/ChoosePlan.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Feature/Feature.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Feature/Feature.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Plans.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Plans.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Pro/Pro.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Pro/Pro.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Starter/Starter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Plan/Plans/Starter/Starter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/NewProvidenceLogo/NewProvidenceLogo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/NewProvidenceLogo/NewProvidenceLogo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/EmailInput/EmailInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/EmailInput/EmailInput.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Customers/Customers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Customers/Customers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Customers/Customers.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Customers/Customers.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features/Feature1/Feature1.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features/Feature2/Feature2.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features/Features.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features/Features.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/CompanyName/CompanyName.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderMenu/ContactsMenu/ContactsMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/ContactsMenu/ContactsMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderMenu/HeaderMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/HeaderMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderMenu/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderMenu/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/HeaderText/HeaderText.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/WatchVideo/WatchVideo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/WatchVideoBtn/WatchVideoBtn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/WatchVideo/WatchVideo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/WatchVideoBtn/WatchVideoBtn.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/IphoneFeatures/IphoneFeatures.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreen.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreen.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreens.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/IphoneScreens/IphoneScreens.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MapFeatures/MapFeatures.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Plan/Plan.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Plan/Plan.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Plan/Plan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Plan/Plan.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReadyToBuy/AppleStoreBtn/AppleStoreBtn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/AppleStoreBtn/AppleStoreBtn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReadyToBuy/ReadyToBuy.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Subscribe/Subscribe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/Divider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Divider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +102,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
@@ -115,18 +124,19 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\psiho\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Subscribe" />
-      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\assets" />
-      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\assets\fonts" />
-      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Header\HeaderMenu\Navbar" />
-      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Header\HeaderMenu\CompanyName" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\assets" />
       <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Features\Feature2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Footer\Links" />
+      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Footer\AboutUs" />
+      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Footer\LearnMore" />
+      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\common" />
+      <recent name="C:\Users\psiho\WebstormProjects\test-landing\src\components\Plan\Plans" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -166,8 +176,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592290224093</updated>
-      <workItem from="1592290225282" duration="37052000" />
+      <workItem from="1592290225282" duration="39060000" />
+      <workItem from="1592620883786" duration="11603000" />
     </task>
+    <task id="LOCAL-00001" summary="Landing v1.0">
+      <created>1592498669807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592498669808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,10 +197,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Landing v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Landing v1.0" />
   </component>
 </project>

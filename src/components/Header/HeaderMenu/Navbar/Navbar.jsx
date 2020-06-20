@@ -4,7 +4,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 
 const NavBar = () => {
     return (
-        <div className={s.navBar}>
+        <div className={s.wrapper}>
             <FontAwesomeIcon icon="bars"/>
             <div className={s.item}> Tour</div>
             <div className={s.item}> Features</div>

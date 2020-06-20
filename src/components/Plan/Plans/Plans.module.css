@@ -1,0 +1,53 @@
+.plansWrapper {
+    display: flex;
+    flex-direction: row;
+}
+.header {
+    color: #26272d;
+    font-family: Lato-Regular;
+    padding-bottom: 29px;
+    padding-left: 122px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 38px;
+}
+
+.starter .header {
+    padding-top: 62px;
+}
+
+.price {
+    width: 63px;
+    height: 28px;
+    border-radius: 14px;
+    border: 1px solid rgba(26, 29, 44, 0.2);
+    line-height: 28px;
+    text-align: center;
+    color: #26272d;
+    font-family: Lato-Bold;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Text style for "F, ree" */
+    letter-spacing: 1.1px;
+    margin-bottom: 66px;
+}
+
+.text {
+    color: #8c8f94;
+    font-family: Lato-Regular;
+    font-size: 20px;
+    width: 179px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 47px;
+}
+.features {
+    text-align: center;
+}
+
+.check {
+    color: #6fc754;
+    padding-right: 10px;
+}

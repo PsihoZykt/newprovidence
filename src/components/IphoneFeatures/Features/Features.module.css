@@ -1,0 +1,17 @@
+.header {
+    width: 237px;
+    margin-bottom: 50px;
+    color: #26272d;
+    font-family: "Varela-Round";
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52px;
+}
+p {
+     width: 469px;
+     color: #8c8f94;
+     font-family: Lato-Regular;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 28px;
+ }

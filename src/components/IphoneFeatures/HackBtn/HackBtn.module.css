@@ -1,0 +1,22 @@
+
+
+.hackBtn {
+    width: 202px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #267df4;
+    color: white;
+    text-align: center;
+    line-height: 42px;
+    font-family: Lato-Regular;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+
+.arrowRight {
+    float: right;
+    margin-right: 15px;
+}

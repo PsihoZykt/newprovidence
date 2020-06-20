@@ -1,0 +1,16 @@
+.photosWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 75px;
+
+}
+.photo {
+    opacity: 0.5;
+
+}
+.photo.active {
+    opacity: 1;
+    margin-left: 75px;
+    margin-right: 75px;
+}
