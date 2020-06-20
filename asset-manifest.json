@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/newprovidence/static/css/main.8e61dfcc.chunk.css",
-    "main.js": "/newprovidence/static/js/main.8deb0fa1.chunk.js",
-    "main.js.map": "/newprovidence/static/js/main.8deb0fa1.chunk.js.map",
+    "main.css": "/newprovidence/static/css/main.a469c26d.chunk.css",
+    "main.js": "/newprovidence/static/js/main.86a74259.chunk.js",
+    "main.js.map": "/newprovidence/static/js/main.86a74259.chunk.js.map",
     "runtime-main.js": "/newprovidence/static/js/runtime-main.c915d967.js",
     "runtime-main.js.map": "/newprovidence/static/js/runtime-main.c915d967.js.map",
-    "static/js/2.5ce84803.chunk.js": "/newprovidence/static/js/2.5ce84803.chunk.js",
-    "static/js/2.5ce84803.chunk.js.map": "/newprovidence/static/js/2.5ce84803.chunk.js.map",
+    "static/js/2.e9cf0c5b.chunk.js": "/newprovidence/static/js/2.e9cf0c5b.chunk.js",
+    "static/js/2.e9cf0c5b.chunk.js.map": "/newprovidence/static/js/2.e9cf0c5b.chunk.js.map",
     "index.html": "/newprovidence/index.html",
-    "precache-manifest.349d50154ae33b6916e801463eb8f12e.js": "/newprovidence/precache-manifest.349d50154ae33b6916e801463eb8f12e.js",
+    "precache-manifest.f5b34aa61f0e4eaa09ff708a7f230196.js": "/newprovidence/precache-manifest.f5b34aa61f0e4eaa09ff708a7f230196.js",
     "service-worker.js": "/newprovidence/service-worker.js",
-    "static/css/main.8e61dfcc.chunk.css.map": "/newprovidence/static/css/main.8e61dfcc.chunk.css.map",
-    "static/js/2.5ce84803.chunk.js.LICENSE.txt": "/newprovidence/static/js/2.5ce84803.chunk.js.LICENSE.txt",
+    "static/css/main.a469c26d.chunk.css.map": "/newprovidence/static/css/main.a469c26d.chunk.css.map",
+    "static/js/2.e9cf0c5b.chunk.js.LICENSE.txt": "/newprovidence/static/js/2.e9cf0c5b.chunk.js.LICENSE.txt",
     "static/media/IphoneScreen.png": "/newprovidence/static/media/IphoneScreen.2398484e.png",
     "static/media/Lato-Bold.ttf": "/newprovidence/static/media/Lato-Bold.85d339d9.ttf",
     "static/media/Lato-Regular.ttf": "/newprovidence/static/media/Lato-Regular.2d36b1a9.ttf",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c915d967.js",
-    "static/js/2.5ce84803.chunk.js",
-    "static/css/main.8e61dfcc.chunk.css",
-    "static/js/main.8deb0fa1.chunk.js"
+    "static/js/2.e9cf0c5b.chunk.js",
+    "static/css/main.a469c26d.chunk.css",
+    "static/js/main.86a74259.chunk.js"
   ]
 }
